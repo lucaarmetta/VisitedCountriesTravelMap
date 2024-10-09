@@ -8,7 +8,7 @@ This project allows you to create an interactive map of the world to visually tr
 
 ## Contents
 
-- `code/`: Directory with xxx source code used in the project.
+- `code/`: Directory with Python source code used in the project.
 - `README.md`: This file, providing an overview of the project.
 - `LICENSE`: The license file specifying the terms of use for the code and documentation.
 
